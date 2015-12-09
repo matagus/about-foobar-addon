@@ -1,0 +1,15 @@
+{
+  "title": "about:foobar",
+  "name": "about-foobar",
+  "version": "0.0.1",
+  "description": "A basic add-on",
+  "main": "index.js",
+  "author": "me",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
